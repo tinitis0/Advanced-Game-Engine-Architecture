@@ -1,0 +1,12 @@
+[submodule "vendor/assimp"]
+	update = rebase
+[submodule "vendor/box2d"]
+	update = rebase
+[submodule "vendor/lua"]
+	update = rebase
+[submodule "vendor/react3d"]
+	update = rebase
+[submodule "vendor/enTT"]
+	update = rebase
+[submodule "vendor/luaBridge"]
+	update = rebase

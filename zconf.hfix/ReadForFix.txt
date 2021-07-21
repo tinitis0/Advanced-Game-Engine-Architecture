@@ -1,0 +1,2 @@
+Here is zconf.h
+Please place this in cw-2021-team-2-electric-boogaloo\vendor\vendor\assimp\contrib\zlib
